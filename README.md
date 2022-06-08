@@ -1,13 +1,14 @@
 [![dependabot]][dependabot-url]
 
 # Personal Website
+
 My website [benhurley.dev](https://benhurley.dev) was constructed using the Creative template from Bootstrap. Info from Start Bootstrap can be found further below.
 
 ![Alt text](img/homescreen.png "Home Page Screen Shot")
 
 Custom changes to the site that deviate from the original template were made by me. I am using this as project as a refresher for front-end static web design and to add a convenient method for friends and companies to access my resume, github, and social media links.
 
-# From Bootstrap:
+# From Bootstrap
 
 # [Start Bootstrap - Creative](https://startbootstrap.com/template-overviews/creative/)
 
